@@ -2,3 +2,11 @@
 .image-container {
     background-image: url("https://nurseryschool.wustl.edu/files/2015/03/group-holi.jpg");
 }
+
+#sc-registration-2020{
+    background-color: #ffffc8;
+}
+
+ul {
+    list-style: inside;
+}

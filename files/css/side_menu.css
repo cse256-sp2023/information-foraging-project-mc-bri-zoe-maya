@@ -20,7 +20,7 @@ main {
 
 ul.subnav>.current_page_item>a {
     color: #3d3d3d;
-    font-family: "Libre Baskerville", "Times New Roman", "serif";
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 2em;
 }
 
@@ -42,6 +42,7 @@ ul.subnav ul a {
     padding: 5px;
     -webkit-font-smoothing: antialiased;
     color: #a51417;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .children li {

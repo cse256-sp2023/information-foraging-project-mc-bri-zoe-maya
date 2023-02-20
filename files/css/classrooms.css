@@ -18,6 +18,7 @@ main li {
 
 .classroom img {
     float: left;
+    margin-bottom: 20px;
     margin-right: 2.5em;
 }
 
