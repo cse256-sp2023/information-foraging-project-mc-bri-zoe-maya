@@ -1,3 +1,17 @@
 @import url("common.css");
 @import url("side_menu.css");
 @import url("staff_entry.css");
+
+main ul {
+    margin-top: 1em;
+    list-style: inside;
+}
+
+main li {
+    font-size: 1.15em;
+    margin-bottom: .75em;
+}
+
+a {
+    color: #a51417;
+}
