@@ -4,14 +4,13 @@
 @import url("staff_entry.css");
 .announcements h4 {
     margin-top: 1em;
-    color: rgb(208, 28, 41);
+    /* color: rgb(208, 28, 41); */
     cursor: pointer;
-    font-family: "Libre Baskerville", "Times New Roman", serif;
     font-size: 25px;
     font-weight: 700;
     letter-spacing: 0.25px;
     line-height: 28px;
-    text-decoration-color: rgb(208, 28, 41);
+    /* text-decoration-color: rgb(208, 28, 41); */
 }
 
 .announcements p {
@@ -42,7 +41,7 @@ main ul {
 
 main li {
     font-size: 1.15em;
-    margin-bottom: 1em;
+    margin-bottom: .75em;
 }
 
 .classroom {
