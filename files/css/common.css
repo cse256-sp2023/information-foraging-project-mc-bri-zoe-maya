@@ -123,6 +123,7 @@ main h4 a {
 .red-h1{
     font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #a51417;
+    font-weight: bold;
 }
 
 .small-text{
